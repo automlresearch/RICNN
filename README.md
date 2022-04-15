@@ -2,7 +2,7 @@
 Convolutional Neural Networks with Rotated Inputs for Rotated Target Recognition
 
 
-Code for "Rotated Target Recognition of Sonar Images via Convolutional Neural Networks with Rotated Inputs", which has been submited to GRSL.
+Code for "Rotated Target Recognition of Sonar Images via Convolutional Neural Networks with Rotated Inputs", which has been submited to ICDIP2022.
 
 Code will be available as soon as the paper is accepted.
 
